@@ -1,0 +1,4 @@
+numpy
+easydev
+colormap
+tabulate
